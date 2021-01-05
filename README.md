@@ -1,6 +1,6 @@
 # Hey there ✌🏼 - I'm Danilo Dominoni
 
-## 💻 Skils
+### 💻 Skils
 
 * 🤖 Backend(Java and Nodejs)
 * 🎨 Frontend(Javascript, Angular, ReactJS, Ionic and NextJS)
