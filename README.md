@@ -1,4 +1,4 @@
-# Hey there ✌🏼 - I'm Danilo Dominoni
+## Hey there ✌🏼 - I'm Danilo Dominoni
 
 ### 💻 Skils
 
