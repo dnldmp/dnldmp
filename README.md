@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hey there ✌🏼 - I'm Danilo Dominoni
+
+## 💻 Skils
+
+* 🤖 Backend(Java and Nodejs)
+* 🎨 Frontend(Javascript, Angular, ReactJS, Ionic and NextJS)
+* 🌐 Integration(IBM Integration Bus and IBM Datapower)
+
 
 <!--
 **dnldmp/dnldmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
