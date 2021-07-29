@@ -1,9 +1,10 @@
+<!--
 ### 💻 Skils
 
 * 🤖 Backend(Java and Nodejs)
 * 🎨 Frontend(Javascript, Angular, ReactJS, Ionic and NextJS)
 * 🌐 Integration(IBM Integration Bus and IBM Datapower)
-
+-->
 ## Hey there ✌🏼 - I'm Danilo Dominoni
 
 <p align="center">May The Code Be With You!</p>
