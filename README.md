@@ -5,15 +5,25 @@
 * 🎨 Frontend(Javascript, Angular, ReactJS, Ionic and NextJS)
 * 🌐 Integration(IBM Integration Bus and IBM Datapower)
 -->
-## Hey there ✌🏼 - I'm Danilo Dominoni
+# Hey there ✌🏼
+
 
 <p align="center">May The Code Be With You!</p>
- <div style="display:flex">
+ <div style="display:flex;">
+ <div>
+    <h2>My name is Danilo 👋</h2>
+    <h3>Full-Stack focused in React | Software Engineer</h3>
+    <h4>Welcome to my world of coding! 🚀</h4>
+ </div>
+
   <a href="https://github.com/dnldmp">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dnldmp&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnldmp&layout=compact&langs_count=7&theme=merko"/>
+  
+  <!--
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dnldmp&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnldmp&layout=compact&langs_count=7&theme=prussian"/>
 </div>
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block "><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,7 +37,7 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UCHGWxx-NGIRrQFq0JIJUPsg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/918.dominoni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/dominoni1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/dnldmp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/dnldmp/dnldmp/blob/output/github-contribution-grid-snake.svg)
