@@ -15,7 +15,7 @@ Welcome to my world of coding! 🚀
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <p align="right">May The Code Be With You!</p>
-  <img height="180em" align="right" alt="yoda" src="https://pa1.narvii.com/6880/8ec51b4d1c3baae01ecdb44ed21a04ca02b4d0eer1-500-280_hq.gif">
+  <img height="170em" align="right" alt="yoda" src="https://pa1.narvii.com/6880/8ec51b4d1c3baae01ecdb44ed21a04ca02b4d0eer1-500-280_hq.gif">
 </div>
   
   ##
