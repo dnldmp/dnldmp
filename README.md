@@ -1,27 +1,11 @@
-<!--
-### 💻 Skils
+<img height="200rem; display: inline_block;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnldmp&layout=compact&langs_count=7&theme=prussian"/>
 
-* 🤖 Backend(Java and Nodejs)
-* 🎨 Frontend(Javascript, Angular, ReactJS, Ionic and NextJS)
-* 🌐 Integration(IBM Integration Bus and IBM Datapower)
--->
-# Hey there ✌🏼
+# Welcome!
+## My name is Danilo 👋
+Full-Stack focused in React | Software Engineer
 
 
-<p align="center">May The Code Be With You!</p>
- <div style="display:flex;">
- <div>
-    <h2>My name is Danilo 👋</h2>
-    <h3>Full-Stack focused in React | Software Engineer</h3>
-    <h4>Welcome to my world of coding! 🚀</h4>
- </div>
-
-  <a href="https://github.com/dnldmp">
-  
-  <!--
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dnldmp&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnldmp&layout=compact&langs_count=7&theme=prussian"/>
-</div>
+Welcome to my world of coding! 🚀
 
 <div style="display: inline_block "><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,7 +14,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" height="150em" alt="yoda" src="https://pa1.narvii.com/6880/8ec51b4d1c3baae01ecdb44ed21a04ca02b4d0eer1-500-280_hq.gif">
+  <p align="right">May The Code Be With You!</p>
+  <img height="180em" align="right" alt="yoda" src="https://pa1.narvii.com/6880/8ec51b4d1c3baae01ecdb44ed21a04ca02b4d0eer1-500-280_hq.gif">
 </div>
   
   ##
