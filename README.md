@@ -1,5 +1,3 @@
-<img height="200rem; display: inline_block;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnldmp&layout=compact&langs_count=7&theme=prussian"/>
-
 # Welcome!
 ## My name is Danilo 👋
 Full-Stack focused in React | Software Engineer
